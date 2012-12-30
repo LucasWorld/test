@@ -1,0 +1,4 @@
+
+Hello,Everyone!
+I am Lucas,this is my first project on git!
+Glad to see you!Thanks
